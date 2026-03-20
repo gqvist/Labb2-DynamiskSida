@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     babel({ presets: [reactCompilerPreset()] })
   ],
+  base: '/Labb2-DynamiskSida/'
 })
