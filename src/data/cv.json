@@ -1,0 +1,43 @@
+{
+  "education": [
+    {
+      "school": "John Bauer Gymnasiet",
+      "program": "Teknik och IT",
+      "description": "Inriktning mot teknik och IT, med fokus på programmering och datavetenskap.",
+      "period": "2009 - 2013"
+    },
+    {
+      "school": "Mälardalen University",
+      "program": "Civilingenjörsprogrammet i maskinteknik - innovativ produktutveckling",
+      "description": "Tidigare produktdesign och innovation. En utbildning som kombinerar teknisk kompetens med kreativt tänkande för att utveckla innovativa produkter och lösningar.",
+      "period": "2014 - 2018"
+    },
+    {
+      "school": "Chas Academy",
+      "program": ".NET Fullstack Developer",
+      "description": "En YH-utbildning med fokus på .NET och fullstack-utveckling.",
+      "period": "2025 - 2027"
+    }
+
+  ],
+  "experience": [
+    {
+      "company": "AMG Fastigheter",
+      "role": "Summer Intern",
+      "description": "Sommarjobb under mina tidiga studier där jag fick bära många hattar, allt från att hjälpa till med fastighetsskötsel till att assistera i administrativa uppgifter.",
+      "period": "2013 - 2017"
+    },    
+    {
+      "company": "Mälardalen University",
+      "role": "Event Coordinator",
+      "description": "Planering av event, fester och aktiviteter för studenter utanför studietid.",
+      "period": "2017 - 2019"
+    },
+    {
+      "company": "Stockholms Polymerteknik",
+      "role": "Technician",
+      "description": "Startade upp nya projekt, skapade arbetsinstruktioner, tillverkade fixturer och arbetade med effiktivisering.",
+      "period": "2020 - 2025"
+    }
+  ]
+}
