@@ -1,5 +1,7 @@
 import { NavLink } from "react-router-dom";
 import { useState, useEffect } from "react";
+import profileImg from "../assets/images/profile-img.jpg";
+import profileSecret from "../assets/images/profile-secret.jpg";
 
 function Sidebar() {
   const [comicMode, setComicMode] = useState(false);
@@ -59,11 +61,7 @@ function Sidebar() {
         <div className="profile-circle">
           <img
             id="profile-img"
-            src={
-              secretMode
-                ? "../assets/images/profile-secret.jpg"
-                : "../assets/images/profile-img.jpg"
-            }
+            src={secretMode ? profileSecret : profileImg}
             alt="profile picture"
             onClick={(e) => {
               if (e.detail === 3) {
