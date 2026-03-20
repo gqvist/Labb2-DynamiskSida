@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 import { useState, useEffect } from "react";
-import profileImg from "../assets/images/profile-img.jpg";
-import profileSecret from "../assets/images/profile-secret.jpg";
+import profileImg from "../assets/images/profile.jpg";
+import profileSecret from "../assets/images/profile-mario.jpg";
 
 function Sidebar() {
   const [comicMode, setComicMode] = useState(false);
