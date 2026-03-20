@@ -61,8 +61,8 @@ function Sidebar() {
             id="profile-img"
             src={
               secretMode
-                ? "public/images/profile-secret.jpg"
-                : "public/images/profile-img.jpg"
+                ? "/images/profile-secret.jpg"
+                : "/images/profile-img.jpg"
             }
             alt="profile picture"
             onClick={(e) => {
